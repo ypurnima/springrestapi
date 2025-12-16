@@ -23,7 +23,6 @@ import com.restapi.springrestapi.service.EmployeeService;
 import jakarta.validation.Valid;
 
 @RestController
-//@RequestMapping("/api")--this will define in properties file
 public class EmployeeController {
 	
 	@Autowired
