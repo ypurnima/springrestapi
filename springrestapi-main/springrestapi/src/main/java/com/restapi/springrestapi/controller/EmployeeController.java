@@ -1,5 +1,4 @@
-package com.mdtalalwasim.springrestapi.controller;
-
+package com.restapi.springrestapi.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
